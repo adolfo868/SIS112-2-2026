@@ -1,5 +1,3 @@
-# SIS112-2-2026
-Asignatura de Programación 1 de la carrera de Ing. Industrial
 # 💻 [SIS-112] Programación I
 **Universidad Católica Boliviana "San Pablo" - Sede Santa Cruz**
 
