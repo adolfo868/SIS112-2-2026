@@ -1,4 +1,4 @@
-# 💻 [SIS-112] Programación I
+# 💻 [SIS-112] Programación I 2-2026
 **Universidad Católica Boliviana "San Pablo" - Sede Santa Cruz**
 
 **Carrera:** Ingeniería de Software  
